@@ -1,0 +1,16 @@
+/* body {
+    background-color: whitesmoke;
+  } */
+  h1 {
+    color: black;
+    margin-right: 30px;
+    font-size: 56px;
+    text-align: center;
+    width: auto;
+    height: 500px;
+
+  }
+body{
+    background: white url("images/bg.jpg") repeat-y fixed center;
+
+}
