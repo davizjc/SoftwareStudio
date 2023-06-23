@@ -1,0 +1,1 @@
+please change the api key in src/api/open-weather-map.js into your weathermood key
